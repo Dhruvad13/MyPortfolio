@@ -864,7 +864,7 @@ textarea {
     flex-direction: column;
     align-items: center;
   }
-  .section .button button{
+  section .button button{
     width: 100%;
   }
 
